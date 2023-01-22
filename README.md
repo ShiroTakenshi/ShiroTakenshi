@@ -3,14 +3,13 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm Naufal 👋
+Hi there, I'm Naufal
 </h3>
 
 <h2 align="center">
-I'm a Collage Student 🏫🚶‍♂️, Video Game Coder🎮, and Level Desain 🎨!
-</h2> 
-
+About Me
 I love creating game, from scratch mean i create base wireframe for focus learn, and need to deep learn about video game code and how it's works.
+</h2> 
 
 
 <div id="badges">
