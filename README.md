@@ -12,14 +12,18 @@ I'm a Collage Student 🏫🚶‍♂️, Video Game Coder🎮, and Level Desain 
 
 I love creating game, from scratch mean i create base wireframe for focus learn, and need to deep learn about video game code and how it's works.
 
-### Social Media:
 
-<a href="https://www.linkedin.com/in/naufal-surya-anggana-6229751b5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>
-</br>
-
-<a href="https://twitter.com/gdevelopment081"><img align="left" src="https://drive.google.com/file/d/1AgbvsWyCBHWM1P2XNaxbgY-nv59Vk2GG/view?usp=sharing" alt="Twitter" width="21px"/></a>
-</br>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/naufal-surya-anggana-6229751b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/gdevelopment081)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 ## I'm currently learning
