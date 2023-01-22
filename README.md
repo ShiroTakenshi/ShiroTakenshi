@@ -18,6 +18,9 @@ Hello I'am Naufal and I love creating game, from scratch mean i create base wire
   <a href="https://twitter.com/gdevelopment081">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://naufal-sa.itch.io/"> 
+    <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io Badge"/>
+  </a>
 </div></h2> 
 
 
