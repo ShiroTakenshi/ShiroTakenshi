@@ -35,5 +35,8 @@ Hello I'am Naufal and I love creating game, from scratch mean i create base wire
 
 ---
 
+## :Language: Language i learn :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naufal&theme=tokyonight&locale=id)](https://git.io/streak-stats)
