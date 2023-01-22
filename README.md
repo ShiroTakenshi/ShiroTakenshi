@@ -2,9 +2,9 @@
   
 </p>
 
-<h3 align="center">
+<h1 align="center">
 About Me 👋
-</h3>
+</h1>
 
 <h2 align="center">
 Hello I'am Naufal and I love creating game, from scratch mean i create base wireframe for focus learn, and need to deep learn about video game code and how it's works.
