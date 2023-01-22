@@ -36,4 +36,4 @@ Hello I'am Naufal and I love creating game, from scratch mean i create base wire
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-ShiroTakenshi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?ShiroTakenshi=DenverCoder1)](https://git.io/streak-stats)
