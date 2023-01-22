@@ -33,3 +33,7 @@ Hello I'am Naufal and I love creating game, from scratch mean i create base wire
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-ShiroTakenshi&theme=dark&background=000000)](https://git.io/streak-stats)
