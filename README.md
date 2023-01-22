@@ -20,7 +20,7 @@ I love creating game, from scratch mean i create base wireframe for focus learn,
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/gdevelopment081)">
+  <a href="https://twitter.com/gdevelopment081">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
