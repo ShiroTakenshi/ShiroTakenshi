@@ -28,5 +28,7 @@ Hello I'am Naufal and I love creating game, from scratch mean i create base wire
 - C#
 - Unity Game Engine
 - Godot Engine
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-  <img src="https://komarev.com/ghpvc/?username=ShiroTakenshi&style=flat-square&color=blue" alt=""/>
