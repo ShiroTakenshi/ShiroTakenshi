@@ -14,10 +14,10 @@ I love creating game, from scratch mean i create base wireframe for focus learn,
 
 ### Social Media:
 
-<a href="https://www.linkedin.com/in/naufal-surya-anggana-6229751b5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/naufal-surya-anggana-6229751b5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>
 </br>
 
-<a href="https://twitter.com/gdevelopment081"><img align="left" src="file:///E:/twitter-color-svgrepo-com.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/gdevelopment081"><img align="left" src="file:///E:/twitter-color-svgrepo-com.svg" alt="Twitter" width="21px"/></a>
 </br>
 
 
