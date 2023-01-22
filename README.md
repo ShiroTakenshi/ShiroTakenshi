@@ -25,9 +25,6 @@ Hello I'am Naufal and I love creating game, from scratch mean i create base wire
 
 
 ## I'm currently learning
-- C#
-- Unity Game Engine
-- Godot Engine
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>
